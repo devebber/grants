@@ -1,4 +1,12 @@
 # Итоговый проект по курсу Java
+Для начала создал класс Grant
+![скрин класса](Screenshots/createGrantClass.png)
+После создал класс Parser, с помощью которого появилась возможность парсить файлы
+![скрин класса](Screenshots/parser1.png)
+![скрин класса](Screenshots/parser2.png)
+Создал класс DatabaseHandler для работы с бд
+![скрин класса](Screenshots/DB.png)
+![скрин класса](Screenshots/DB2.png)
 #### Вывод всех данных из бд:
 ![скрин бд](Screenshots/allDataScreen.png)
 #### 1 задание:
